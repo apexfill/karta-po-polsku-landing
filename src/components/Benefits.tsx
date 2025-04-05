@@ -11,7 +11,7 @@ export default function Benefits() {
     },
     {
       icon: <GlobeIcon className="h-10 w-10 text-blue-600" />,
-      title: 'Вільний в'їзд і виїзд до країн ЄС',
+      title: "Вільний в'їзд і виїзд до країн ЄС",
       description: 'Можливість подорожувати країнами Європейського Союзу без віз та додаткових дозволів'
     },
     {
